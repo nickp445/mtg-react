@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: rgba(141, 137, 137, 1);
+}
+.logo {
+  width: 300px;
+  height: 200px;
+  margin: 0% .5% 0% .5%;
+  border: 10px solid #000;
+  background-color: #000000;
+}
+.title {
+  margin-left: 0%;
+}
+.title2 {
+  margin-left: 0%;
+}
+.loader {
+  min-width: 7%;
+  height: 25px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  background-color: #408080;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.bigClue {
+  color: rgb(223, 50, 79);
+  font-weight: bold;
+  
+}
+ul {
+  list-style-type: none;
+}
+#setInput {
+  border: 2px solid #000;
+  border-radius: 5px;
+  height: 20px;
+}
+#colorsInput {
+  border: 2px solid #000;
+  border-radius: 5px;
+  height: 20px;
+}
+#typeInput {
+  border: 2px solid #000;
+  border-radius: 5px;
+  height: 20px;
+}
+#nameInput {
+  border: 2px solid #000;
+  border-radius: 5px;
+  height: 20px;
+}
+.flavorImg {
+  border: 10px solid #000;
+
+}
+.setCodes {
+  width: 60%;
+  border: 2px solid #000;
+  margin-top: 10px;
+  background-color: #fff;
+  margin: auto;
+}
+.card {
+  background-color: rgba(141, 137, 137, 1);
+}
+
+
